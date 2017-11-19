@@ -2,9 +2,9 @@
 
 ## Overview
 
-A basic portfolio to promote yours truly
+A basic portfolio to promote yours truly. This version has been modified with CSS media queries to create a mobile-responsive site.
 
-Live site: TBD
+Live site: https://robertbernardbrown.github.io/Responsive-Portfolio/index.html
 
 ## Technologies Used
 
