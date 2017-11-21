@@ -17,7 +17,7 @@ Text Editor - VS Studio
 * CSS Style
 
 ## Site Preview
-![alt text](https://github.com/robertbernardbrown/Basic-Portfolio/blob/master/Bio-Preview.png)
+![alt text](https://github.com/robertbernardbrown/Responsive-Portfolio/blob/master/preview.png)
 
 ## Future Development
 
