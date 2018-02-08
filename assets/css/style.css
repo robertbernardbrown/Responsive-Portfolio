@@ -223,11 +223,11 @@ p > a:hover {
   padding-top: 5%;
 }
 
-.hangman > img {
+.hangman > a > img {
   max-width: 100%;
 }
 
-.hangman > img:hover {
+.hangman > a > img:hover {
   border: 3px solid #cccccc;
   margin: -3px;
 }
@@ -253,11 +253,11 @@ p > a:hover {
   text-align: center;
 }
 
-.trivia > img {
+.trivia > a > img {
   max-width: 100%;
 }
 
-.trivia > img:hover {
+.trivia > a > img:hover {
   border: 3px solid #cccccc;
   margin: -3px;
 }
@@ -309,11 +309,11 @@ p > a:hover {
   text-align: center;
 }
 
-.rpg > img {
+.rpg > a > img {
   max-width: 100%;
 }
 
-.rpg > img:hover {
+.rpg > a > img:hover {
   border: 3px solid #cccccc;
   margin: -3px;
 }
