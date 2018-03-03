@@ -337,16 +337,16 @@ p > a:hover {
   text-align: center;
 }
 
-.rutgers > img {
+.peeve > a > img {
   max-width: 100%;
 }
 
-.rutgers > img:hover {
+.peeve > a > img:hover {
   border: 3px solid #cccccc;
   margin: -3px;
 }
 
-.rutgers {
+.peeve {
   float: left;
   position: relative;
   max-width: 46%;
@@ -354,7 +354,7 @@ p > a:hover {
   margin: 2%;
 }
 
-.absoluteRutgers {
+.absolutePeeve {
   position: absolute;
   bottom: 25%;
   background: #4aaaa5;
