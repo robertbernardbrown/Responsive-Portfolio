@@ -366,6 +366,35 @@ p > a:hover {
   text-align: center;
 }
 
+.bucketlist > a > img {
+  max-width: 100%;
+}
+
+.bucketlist > a > img:hover {
+  border: 3px solid #cccccc;
+  margin: -3px;
+}
+
+.bucketlist {
+  float: left;
+  position: relative;
+  max-width: 46%;
+  box-sizing: border-box;
+  margin: 2%;
+}
+
+.absoluteBucketlist {
+  position: absolute;
+  bottom: 25%;
+  background: #4aaaa5;
+  color: white;
+  width: 100%;
+  max-width: 100%;
+  padding: 2%;
+  box-sizing: border-box;
+  text-align: center;
+}
+
 /** FOOTER **/
 
 .clearfooter {
