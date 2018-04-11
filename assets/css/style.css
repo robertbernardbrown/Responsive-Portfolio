@@ -395,6 +395,35 @@ p > a:hover {
   text-align: center;
 }
 
+.scraper > a > img {
+  max-width: 100%;
+}
+
+.scraper > a > img:hover {
+  border: 3px solid #cccccc;
+  margin: -3px;
+}
+
+.scraper {
+  float: left;
+  position: relative;
+  max-width: 46%;
+  box-sizing: border-box;
+  margin: 2%;
+}
+
+.absoluteScraper {
+  position: absolute;
+  bottom: 25%;
+  background: #4aaaa5;
+  color: white;
+  width: 100%;
+  max-width: 100%;
+  padding: 2%;
+  box-sizing: border-box;
+  text-align: center;
+}
+
 /** FOOTER **/
 
 .clearfooter {
